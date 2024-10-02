@@ -1,3 +1,3 @@
 fun main() {
-    println("Roberto Antunes Souza")
+    println("Roberto Antunes Souza -- Técnicas de Programação")
 }
